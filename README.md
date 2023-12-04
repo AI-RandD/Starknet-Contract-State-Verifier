@@ -1,4 +1,4 @@
-# Starknet Contract State Verifier ⚡️⚡
+# ⚡ Starknet Contract State Verifier ⚡️
 
 ## Overview
 
